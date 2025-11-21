@@ -182,7 +182,6 @@ Only recommends movies the user hasn't rated, preventing redundant suggestions w
 
 **Gonçalo Melo**  
 goncalo.b.melo@gmail.com | [github.com/goncalobmelo](https://github.com/goncalobmelo)
-
 ---
 
 *Built with Python, Surprise, and Streamlit. Dataset: MovieLens 100K.*
