@@ -20,7 +20,7 @@ Built with a Streamlit web interface for easy interaction and testing.
 - **Web Interface:** Streamlit
 - **Dataset:** MovieLens 100K (100,000+ ratings, 1,682 movies)
 
-## ✨ Key Features
+## Key Features
 
 ### 1. Hybrid Recommendation Approach
 - **Collaborative Filtering (SVD):** Learns from user rating patterns
@@ -43,7 +43,7 @@ where α = acc_CF / (acc_CF + acc_CB)
 - Filters unrated movies for recommendations
 - Normalized content scores for fair comparison
 
-## 🔍 How It Works
+## How It Works
 
 ### Collaborative Filtering (SVD)
 Uses Singular Value Decomposition to find latent factors in user-movie rating patterns:
