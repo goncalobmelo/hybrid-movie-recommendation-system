@@ -5,7 +5,7 @@ An intelligent movie recommendation system combining collaborative filtering and
 ## Overview
 
 **Type:** Personal project  
-**Duration:** November 2024 (1 week)  
+**Duration:** November 2025 (1 week)  
 **Motivation:** Develop a practical machine learning application demonstrating recommendation system techniques
 
 This project implements a hybrid recommendation engine that intelligently balances collaborative filtering (SVD) and content-based filtering (cosine similarity) to provide personalized movie recommendations. The system dynamically adjusts the weight between both approaches based on their respective accuracy metrics, resulting in more robust predictions.
